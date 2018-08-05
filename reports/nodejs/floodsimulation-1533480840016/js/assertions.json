@@ -1,0 +1,10 @@
+{
+  "simulation": "FloodSimulation",
+  "simulationId": "floodsimulation",
+  "start": 1533480840016,
+  "description": "",
+  "scenarios": ["FloodSimulation"],
+  "assertions": [
+
+  ]
+}
