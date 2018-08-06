@@ -105,10 +105,13 @@ Linux 4.17.6-1-ARCH x86_64 GNU/Linux
 
 === Results
 
-Here are the benchmark results :
+==== Golang/Mux benchmark result link:http://htmlpreview.github.io/?https://github.com/Chralu/httprest_benchmarks/master/reports/golang/floodsimulation-1533480504535/index.html[-Full results-]
 
 .Go/Mux
 image::reports/golang/floodsimulation-1533480504535/statistics.png[GoLang Statistics]
+
+
+==== NodeJS/Express benchmark result link:http://htmlpreview.github.io/?https://github.com/Chralu/httprest_benchmarks/master/reports/nodejs/floodsimulation-1533480840016/index.html[-Full results-]
 
 .NodeJS/Express
 image::reports/nodejs/floodsimulation-1533480840016/statistics.png[NodeJS Statistics]
